@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/m/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_b21ec6c4dc0a8dfdb75082154611b5d584946d28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/d11f2b3fb2a815162b79b1396d55c8d0667c8f2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bf7f244302c8d333724f0ec5eda8f7c330c161d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/3867383bc42588cfdaa1c4d10b3a4812aee02d88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_847e4d37f56d0796e53f59fb82a9296dc73755a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/04dfcd755a37d6286222c1e54535e96d34dec139/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef7728f1ef7f727be140a01f2a86b211cb0df33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/582e063c7625997f8c8d6efa32b656dc109c0591/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_617e1dd5407809f009b9f830a8d7e0d4fd7316f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/05b55457154b3b5ce1ab4904d10abd846e7b3c21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da74db1debee43797edec7f1ba89decfd4f08682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/144fa945f0ea1c6756d7a2737a85e7faca8246ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0d7c92db12462ea807673a609d2088f3038cd5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_287c5fcf8a491aef9d86b91a10399a5ec499469b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/4280cba9d83bb6988e1032f54d093f69173aa5de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_635e05d22e9ce9694d92fb945a664605ea910a43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/6fca0370cf5fc8f859ef1dcd30ac074f7e653a90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9850f3cbf7f15e9bf6480f770696e2ff648f39ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/6c4ebd1c46550a56ba8de1ece919e37df0f80521/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d6558443574e4da1523b3ede11ffecb629d9903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_29f30f077163e443a0562c0937b00cd0623c4276/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25be7ffef0a7a3986f6e3614780b8bb6445b3ec0">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7defafd405ba57af47fba5e6f4607fb8dc54ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b3949c0b5405483aefc068222dad125c6c588547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/20141f4ade87f7f43048ec612db87c4a928607aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c511fd9decb5d8cc2f976b664c56d5efa5cd40e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/f886476590d7742e630a83781acd3a0280dbae75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0250a964dd4ddf84512b84e7b5bc0576035da86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/492f5dc92c4850f1cad77c5064e87e657dfac016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_495800d408688850165782e50f2fcbe383d6c3dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/.android/build-cache/41da59036c63fd2f7a54af74e743684926df4d16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/MovieFirstStage/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6be1dc9a383e57f135114d0c9c9782c16c5ea11/classes.dex" />
+    </item>
+
+</items>
